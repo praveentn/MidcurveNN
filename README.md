@@ -80,6 +80,12 @@ of the License, or any later version.
 - Thus, theoretically, GANs are not suitable for MidcurveNN problem. Comments?
 
 
+## CNN based Encoder Decoder 
+- Sample output
+
+![alt text](/_cnn_enc_dec_1.png)
+
+
 ## Disclaimer:
 Author (yogeshkulkarni@yahoo.com) gives no guarantee of the results of the program. It is just a fun script. Lot of improvements are still to be made. So, don’t depend on it at all.
 	
